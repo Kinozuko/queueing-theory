@@ -2,7 +2,7 @@
 
 In the current Project there are two problems. This was part of Stadistics Course in Universidad de Carabobo - FaCyT.
 
-**Currently I don't remember from what book were the problems, but probably it was from Canavos**
+**Currently I don't remember from which book were the problems, but probably it was from Canavos**
 
 * In the first problem we run a simulation of N dice to check the probability of  sum of two dices is 5 in 500 samples.
 
