@@ -9,13 +9,13 @@ In the current Project there are two problems. This was part of Stadistics Cours
 * In the second problem consists in four exercise and consist in simulate MM1 Queue with 50 iterations:
 
 	* Exercise 4
-		![](E4_n_50.jpg)
+		![](example_exercise/plot/E4_n_50.jpg)
 	* Exercise 5
-		![](E5_n_50.jpg)
+		![](example_exercise/plot/E5_n_50.jpg)
 	* Exercise 6
-		![](E6_n_50.jpg)
+		![](example_exercise/plot/E6_n_50.jpg)
 	* Exercise 7
-		![](E7_n_50.jpg)
+		![](example_exercise/plot/E7_n_50.jpg)
 
 ## Structure
 
