@@ -9,13 +9,13 @@ In the current Project there are two problems. This was part of Stadistics Cours
 * In the second problem consists in four exercise and consist in simulate MM1 Queue with 50 iterations:
 
 	* Exercise 4
-		![](example_exercise/plot/E4_n_50.jpg)
+		![](/example_exercise/plot/E4_n_50.jpg)
 	* Exercise 5
-		![](example_exercise/plot/E5_n_50.jpg)
+		![](/example_exercise/plot/E5_n_50.jpg)
 	* Exercise 6
-		![](example_exercise/plot/E6_n_50.jpg)
+		![](/example_exercise/plot/E6_n_50.jpg)
 	* Exercise 7
-		![](example_exercise/plot/E7_n_50.jpg)
+		![](/example_exercise/plot/E7_n_50.jpg)
 
 ## Structure
 
@@ -39,7 +39,7 @@ In the current Project there are two problems. This was part of Stadistics Cours
 
 ### Installing Dependecies
 
-* To run this project you should have installer [R](https://cran.r-project.org/mirrors.html)
+* To run this project you should have installed [R](https://cran.r-project.org/mirrors.html)
 
 ### Running Project
 
